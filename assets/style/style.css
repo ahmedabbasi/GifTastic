@@ -1,0 +1,22 @@
+body{
+    background-color: darkslategrey;
+}
+
+button{
+    margin-top:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4
+}  
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    
+}
+#animals-giphs{
+    float:right;
+}
+#add-animal{
+    float:right;
+}
